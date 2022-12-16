@@ -1,0 +1,1 @@
+weight: not HEAVY, height: SMALL or MID
