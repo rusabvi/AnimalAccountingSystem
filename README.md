@@ -1,0 +1,2 @@
+# AnimalAccountingSystem
+Система учёта животных
